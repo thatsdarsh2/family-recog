@@ -1,0 +1,19 @@
+body {
+    color: magenta;
+    background-color: cyan;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera, #result {
+    border: 2px dashed gold;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy {
+    color: gold
+}
